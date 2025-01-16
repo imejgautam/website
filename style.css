@@ -179,6 +179,11 @@ header nav ul li a:hover {
     text-decoration: none;
 }
 
+.contact-number i {
+    margin-right: 10px; /* Adds space between icon and text */
+    font-size: 1.5rem;  /* Adjust icon size */
+}
+
 /* Footer Section */
 footer {
     background: #1a1a1a;

@@ -172,16 +172,8 @@ header nav ul li a:hover {
 
 .contact-number {
     margin-top: 20px;
-}
-
-.contact-number a {
-    color: #3498db;
-    text-decoration: none;
-}
-
-.contact-number i {
-    margin-right: 10px; /* Adds space between icon and text */
-    font-size: 1.5rem;  /* Adjust icon size */
+    font-size: 1.2rem;
+    color: #ececec;
 }
 
 /* Footer Section */
